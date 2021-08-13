@@ -1,0 +1,27 @@
+body {
+  background-color: #e5e5e523;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: 700;
+  font-size: 90px;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 36px;
+  color: #fa804c;
+}
+.btn-style {
+  background-color: #3a4be2;
+}
